@@ -12,6 +12,5 @@ I'm a Pre-Final Year ECE Student.<br>Currently learning on JAVA and its concept.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mouleeshwaran Ramesh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
