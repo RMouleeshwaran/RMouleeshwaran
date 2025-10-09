@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Pre-Final Year ECE Student.<br>Currently learning on JAVA and its concept.
+I'm a Final Year ECE Student.<br>Currently learning on JAVA and its concept.
 
 
 ## 🌐 Socials:
