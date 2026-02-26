@@ -1,6 +1,4 @@
 # 💫 About Me:
-I'm a Final Year ECE Student.<br>Currently learning on JAVA and its concept.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mouleeshwaran-r-269059271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
